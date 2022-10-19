@@ -25,6 +25,6 @@ public class diagonal_sum {
                 }
             }
         }
-        System.out.println("Diagonal sum of matrix is : " + (x+y));
+        System.out.println("Diagonal sum of matrix is: " + (x+y));
     }
 }
